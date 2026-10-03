@@ -1,0 +1,6 @@
+1. 012ab3456789, se executa operatie de inserare a unui sir de char in alt sir de char
+2. 2
+3.fabet
+4.lator
+5. siruri egale
+6.12ab34cd56

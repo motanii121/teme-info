@@ -1,0 +1,14 @@
+7.alfa
+8.125
+
+asif
+1.a
+2.a
+3.f
+4.f
+5.f
+
+alegeti
+1.b
+2.c
+3.c
